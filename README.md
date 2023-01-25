@@ -5,4 +5,4 @@ Este Repositorio fue creado por Arturo Valdivia Glez.
 arturo.valdivia@academicos.udg.mx
 Universidad de Guadalajara / CUCEI
 
-![Caption for the picture.](https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png){#id .class width=50% height=50%}
+![Caption for the picture.](https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png){#id .class width=10% height=10%}
