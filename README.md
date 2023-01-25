@@ -1,4 +1,4 @@
-![Caption for the picture.](https://wiki.installgentoo.com/images/thumb/e/e4/Python.png/450px-Python.png)
+![Caption for the picture.](https://i.pinimg.com/originals/e6/dd/3e/e6dd3ec8da902b73194d430a76ced4dc.png)
 ### Python manual 2022
 A repository of python programming for new students in the topic.This is a repository for educational purpose .
 
