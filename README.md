@@ -6,3 +6,5 @@ Este Repositorio fue creado por Arturo Valdivia Glez.
 arturo.valdivia@academicos.udg.mx
 Universidad de Guadalajara / CUCEI
 
+Para hacer uso de este repositorio es necesario usar google colaboratory o en su defecto tener intalacion local de python y Jupiter Notebook.
+
