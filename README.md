@@ -4,3 +4,5 @@ A repository of python programming for new students in the topic.This is a repos
 Este Repositorio fue creado por Arturo Valdivia Glez. 
 arturo.valdivia@academicos.udg.mx
 Universidad de Guadalajara / CUCEI
+
+![Caption for the picture.](https://www.devacademy.es/wp-content/uploads/2018/10/python-logo-1024x1024.png)
